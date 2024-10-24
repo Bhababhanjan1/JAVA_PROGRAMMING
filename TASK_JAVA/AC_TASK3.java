@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //Enter number to get the month name
 import java.util.Scanner;
-public class A3_TASK4 {
+public class AC_TASK3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int i;//INITIALISATION
