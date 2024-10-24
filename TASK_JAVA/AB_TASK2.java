@@ -3,7 +3,7 @@ package JAVA_PROGRAMMING.TASK_JAVA;
 import java.util.Scanner;
 
 //BASIC CALCULATOR
-public class A2_TASK2 {
+public class AB_TASK2 {
    public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int a;
