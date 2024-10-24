@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //Menu driven program
 import java.util.Scanner;
-public class A6_TASK5 {
+public class AD_TASK4 {
     public static void main(String[] args) {    
         Scanner sc = new Scanner(System.in);
         int i;
