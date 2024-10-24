@@ -6,16 +6,17 @@ public class A9_Switch {
         Scanner sc=new Scanner(System.in);
         int a;
         int b;
+        //Declarartion of variable
         System.out.println("CALCULATOR");
         System.out.println("----------");
         System.out.println("Enter 1st number:-");
-        a=sc.nextInt();
+        a=sc.nextInt();//Taking input from user
         System.out.println("Enter 2nd number:");
-        b=sc.nextInt();
+        b=sc.nextInt();//Taking input from user
         System.out.println("ENTER A CHOICE>>>");
         System.out.println("1.ADDITION\n2.SUBSTRACTION\n3.MULTIPLICATION\n4.DIVISION\n5.MODULO");
         int choice;
-        choice=sc.nextInt();
+        choice=sc.nextInt();//Taking input from user
         switch(choice)
         {
             case 1:
@@ -48,7 +49,8 @@ public class A9_Switch {
                 System.out.println("The Remainder is:"+(a%b));
             }
 
-            default:
+            default://If  choice is not in the above cases
+
             System.out.println("INVALID CHOICE!");
         }
     }
