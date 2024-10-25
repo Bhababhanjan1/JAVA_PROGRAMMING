@@ -4,7 +4,7 @@ public class AE01_TASK10 {
     public static void main(String[] args) {
         for(int i=4;i>=1;i--) //for(i=1;i<=4;i++)
         {
-            for(int j=1;j<i;j++) //for(j=1;j<=n-1;j++) //for(j=1;j<=3;j++)
+            for(int j=1;j<i;j++) //for(j=1;j<=n-1;j++) //for(j=1;j<=4-i;j++)
             {
                 System.out.print(" ");
             }
