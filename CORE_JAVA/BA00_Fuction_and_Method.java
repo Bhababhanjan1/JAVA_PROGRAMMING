@@ -8,8 +8,8 @@ public class BA00_Fuction_and_Method {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter your name:");
+        System.out.println("Enter your name:"); //Taking input from user
         String name = sc.nextLine();
-        PrintMyName(name);
+        PrintMyName(name); //Function calling
     }
 }
