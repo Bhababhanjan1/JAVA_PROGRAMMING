@@ -24,7 +24,7 @@ public class AE06_TASK15 {
             {
                 System.out.print("*");
             }
-            System.err.println();
+            System.out.println();
         }
         //LOWER HALF
         for(i=4;i>=1;i--)
