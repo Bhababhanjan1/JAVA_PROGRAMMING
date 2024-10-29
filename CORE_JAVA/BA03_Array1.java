@@ -3,6 +3,7 @@ package JAVA_PROGRAMMING.CORE_JAVA;
 public class BA03_Array1 {
     public static void main(String[] args) {
         int marks[]=new int [3]; // data_type Array_Name [] =new data_type [size]
+        //int [] marks=new int [3];
         //-->'new' keyword is used to assign some  memory location to the array
         marks[0]=89; //phy
         marks[1]=90; //chem
