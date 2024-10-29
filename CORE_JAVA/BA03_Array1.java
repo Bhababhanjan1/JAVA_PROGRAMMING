@@ -10,6 +10,13 @@ public class BA03_Array1 {
         System.out.println("marks[0] = "+marks[0]);
         System.out.println("marks[1] = "+marks[1]);
         System.out.println("marks[2] = "+marks[2]);
+        /*  TO PRINT THE OUTPUT AT ONCE USE FOR LOOP
+        for(int i=0;i<3;i++)
+        {
+        System.out.println(marks[i]);
+        }
+        */
+
 
     }
 }
