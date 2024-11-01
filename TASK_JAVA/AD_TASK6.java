@@ -1,5 +1,12 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
-//PATERN PRINTING -1
+//PATTERN-SQUARE
+/*
+    *****
+    *****
+    *****
+    *****
+    
+ */
 import  java.util.Scanner;
 
 public class AD_TASK6 {
