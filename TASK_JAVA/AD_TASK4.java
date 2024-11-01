@@ -35,7 +35,7 @@ public class AD_TASK4 {
             }
             default:
             {
-            System.out.println("THANK YOU FOR VISITING (:");
+            System.out.println("Enter a valid number!!");
             }
         }
            
