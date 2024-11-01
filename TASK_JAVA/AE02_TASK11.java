@@ -1,5 +1,13 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //PATTERN- HALF PYRAMID WITH NUMBERS
+/*
+
+1
+12
+123
+1234
+
+ */
 public class AE02_TASK11 {
     public static void main(String[] args) {
         for(int i=1;i<5;i++)
