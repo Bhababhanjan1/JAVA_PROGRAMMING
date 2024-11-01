@@ -1,5 +1,16 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //PATTERN - 01 TRIANGLE
+/* 
+
+
+1 
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+
+
+ */
 public class AE05_TASK14 {
     public static void main(String[] args) {
         int number =1;
