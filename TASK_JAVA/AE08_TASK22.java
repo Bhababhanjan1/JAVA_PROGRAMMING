@@ -1,5 +1,21 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 // HOLLOW BUTTERFLY
+/*
+
+
+*        *
+**      **
+* *    * *
+*  *  *  *
+*   **   *
+*   **   *
+*  *  *  *
+* *    * *
+**      **
+*        *
+
+
+ */
 public class AE08_TASK22 {
     public static void main(String[] args) {
         int i;
