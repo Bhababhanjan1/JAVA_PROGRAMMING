@@ -29,6 +29,10 @@ public class AD_TASK4 {
                 }
                 break;
             }
+            case 0 :
+            {
+                return;
+            }
             default:
             {
             System.out.println("THANK YOU FOR VISITING (:");

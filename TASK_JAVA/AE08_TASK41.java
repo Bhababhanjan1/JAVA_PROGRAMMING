@@ -1,4 +1,5 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
+//Take a matrix as input from user. Search for a given number x and print the indices at which it occurs.
 
 import java.util.Scanner;
 
@@ -43,9 +44,7 @@ public class AE08_TASK41 {
                     {
                         System.out.println("The number is found at: ["+i+"] ["+j+"]");
                     }
-                    else{
-                        System.out.println("The number is not found");
-                    }
+                    
                     
                 }
             }
