@@ -1,5 +1,0 @@
-package JAVA_PROGRAMMING.TASK_JAVA;
-//PATTERN
-public class AE08_TASK234 {
-    
-}
