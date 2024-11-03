@@ -1,6 +1,12 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
-//PATTERN-2
-
+//HOLLOW RECTANGLE/SQUARE
+/*
+    xxxxx
+    x   x
+    x   x
+    xxxxx
+    
+ */
 public class AD_TASK7 {
     public static void main(String[] args) {
         int n=4;
