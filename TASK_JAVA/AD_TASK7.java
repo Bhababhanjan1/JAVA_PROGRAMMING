@@ -1,11 +1,11 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //HOLLOW RECTANGLE/SQUARE
 /*
-    xxxxx
-    x   x
-    x   x
-    xxxxx
-    
+    x x x x x
+    x       x
+    x       x
+    x x x x x
+
  */
 public class AD_TASK7 {
     public static void main(String[] args) {
