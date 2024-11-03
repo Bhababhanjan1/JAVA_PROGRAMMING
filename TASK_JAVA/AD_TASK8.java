@@ -1,5 +1,13 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //PATTERN-HALF PYRAMID
+/*
+
+       *
+       **
+       ***
+       ****
+
+ */
 public class AD_TASK8 {
     public static void main(String[] args) {
         int i;
