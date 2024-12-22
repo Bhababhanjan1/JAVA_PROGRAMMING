@@ -9,6 +9,7 @@ public class A4_Typecasting4 {
         float f=5.67f;
         double d=0.1234;
         double result=(f*b)+(i/c)-(d-s);
+        System.out.println((f*b)+" "+(i/c)+" "+(d-s));
         System.out.println(result);// Result will be in double
     }
 }
