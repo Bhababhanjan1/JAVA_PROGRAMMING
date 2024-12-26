@@ -7,14 +7,28 @@ public class AA_TASK3 {
         System.out.println("Enter a number:");
         int num=sc.nextInt();
         int c=2;
-        while(c<num)
+        if(num<=1)
+        {
+            System.out.println("Its not a prime number!");
+        }
+        else if(num==2 || num ==3)
+        {
+            System.out.println("Its a prime number!!");
+        }
+        else
+        while(c*c<=num)
         {
             if(num%c==0)
             {
                 System.out.println("Its not a prime number!");
+                c++;
             }
-            c=c+1;
+            else{
+                System.out.println("Its a prime number!!");
+                return ;
+            }
+            
         }
-        System.out.println("Its a prime number!!");
+       
     }
 }
