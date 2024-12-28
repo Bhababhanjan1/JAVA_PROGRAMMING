@@ -1,5 +1,5 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
-//PATTERN- INVERTED HALF PYRAMID (ROTATED 180')
+//PATTERN- INVERTED HALF PYRAMID (ROTATED 180') (FLIPPED)
 public class AE00_TASK10a {
     public static void main(String[] args) {
         
