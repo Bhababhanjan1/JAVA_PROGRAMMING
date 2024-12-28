@@ -1,5 +1,15 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //PATTERN- INVERTED HALF PYRAMID WITH NUMBERS
+/* 
+
+
+ 1 2 3 4 5 
+ 1 2 3 4
+ 1 2 3
+ 1 2
+ 1
+ 
+    */
 public class AE03_TASK12 {
     public static void main(String[] args) {
         //OUTER LOOP
