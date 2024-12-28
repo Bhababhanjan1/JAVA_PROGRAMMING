@@ -1,5 +1,15 @@
 package JAVA_PROGRAMMING.TASK_JAVA;
 //REVRSE HALF PYRAMID
+
+/* 
+
+    *****
+    ***
+    **
+    *     
+    
+*/ 
+ 
 public class AD_TASK9 {
     public static void main(String[] args) {
         //OUTER LOOP
