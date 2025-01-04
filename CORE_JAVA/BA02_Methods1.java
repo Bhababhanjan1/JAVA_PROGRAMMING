@@ -9,7 +9,8 @@ public class BA02_Methods1 {
 class d{
     public static void main(String[] args) {
         int x=50;
+        System.out.println("The value of x before calling the method is: "+x);
         BA02_Methods1.a(x);
-        System.out.println(x); //The original value is not changed due to pass by value which is applicable for the primitive data types
+        System.out.println("The value of x after calling the method is  "+x); //The original value is not changed due to pass by value which is applicable for the primitive data types
     }
 }
