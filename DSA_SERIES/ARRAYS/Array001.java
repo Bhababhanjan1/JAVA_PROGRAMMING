@@ -30,6 +30,20 @@ public class Array001 {
         {
             System.out.print(b[i]+" ");
         }
+        System.out.println();
+
+        //TYPE-3
+        int c[]=new int[3];
+        for(i=0;i<c.length;i++)
+        {
+            c[i]=sc.nextInt();
+        }
+        System.out.println("The array c[] is : ");
+        // for each loop
+        for(int num : c) // for every element in array , print the element 
+        {
+            System.out.print(num+" "); //here num represents the element of the array
+        }
 
     }
     
