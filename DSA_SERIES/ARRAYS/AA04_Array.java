@@ -3,7 +3,7 @@ package JAVA_PROGRAMMING.DSA_SERIES.ARRAYS;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Array004 {
+public class AA04_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int b[][]=new int[3][2];
