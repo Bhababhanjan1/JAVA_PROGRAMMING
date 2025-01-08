@@ -23,6 +23,10 @@ public class Array004 {
             }
             System.out.println();
         }
+        for(int i=0;i<a.length;i++)
+        {
+            System.out.println(Arrays.toString(a[i]));
+        }
     }
     
 }
