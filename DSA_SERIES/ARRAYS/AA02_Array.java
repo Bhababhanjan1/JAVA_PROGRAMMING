@@ -3,7 +3,7 @@ package JAVA_PROGRAMMING.DSA_SERIES.ARRAYS;
 import java.util.Arrays;
 
 // 2-D Array printing
-public class Array002 {
+public class AA02_Array {
     public static void main(String[] args) {
         //Syntax:  data_type [][] =new int[size of row  (mandatory) ]   [size of column (not mandatory) ]
         int b[][]=new int [2][3];
