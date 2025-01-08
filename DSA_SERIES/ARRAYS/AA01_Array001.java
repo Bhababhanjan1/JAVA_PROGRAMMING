@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.DSA_SERIES.ARRAYS;
 //Taking input in array
 import java.util.Scanner;
-public class Array001 {
+public class AA01_Array001 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int i;
