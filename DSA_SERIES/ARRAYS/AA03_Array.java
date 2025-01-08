@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.DSA_SERIES.ARRAYS;
 //Printing a 2D array by taking input from user
 import java.util.*;
-public class Array003 {
+public class AA03_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int i,j;
