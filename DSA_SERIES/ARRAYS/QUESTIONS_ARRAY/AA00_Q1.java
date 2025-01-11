@@ -2,7 +2,7 @@ package JAVA_PROGRAMMING.DSA_SERIES.ARRAYS.QUESTIONS_ARRAY;
 // SWAPPING ELEMENTS IN ARRAY
 import java.util.Scanner;
 import java.util.Arrays;
-public class AA_Q1 {
+public class AA00_Q1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int[] arr = {1, 2, 3, 4, 5};
