@@ -12,14 +12,14 @@ public class AA07_Arraylist1 {
         int a=sc.nextInt();
         
         //Initialisation
-        for(i=0;i<=a;i++)
+        for(i=0;i<a;i++)
         {
             list.add(new ArrayList<>());
         }
         //Add elemenets
-        for(i=0;i<=3;i++)
+        for(i=0;i<a;i++)
         {
-            for(j=0;j<=3;j++)
+            for(j=0;j<a;j++)
             {
                 System.out.println("Enter the element of array "+i+" at position "+j+" :");
                 list.get(i).add(sc.nextInt());
