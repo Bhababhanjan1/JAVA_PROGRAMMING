@@ -1,0 +1,19 @@
+package JAVA_PROGRAMMING.ASSIGNMENTS;
+//Check a year is a leap year or not
+import java.util.*;
+public class AA00_Q01 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a year: ");
+        int a=sc.nextInt();
+        if(a%4==0 )
+        {
+            System.out.println("It is a leap year !");
+        }
+        else{
+            System.out.println("Its not a leap year!");
+        }
+        
+    }
+    
+}
