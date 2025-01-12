@@ -13,13 +13,13 @@ public class AD_TASK5a {
        else{
         for(int i=2;i<=a;i++)
         {
-            if(a%i!=0)
+            if(a%i==0)
             {
-                System.out.println("It is a prime number!!"); // Found a divisor, so it's not prime
+                System.out.println("It is not a prime number!!"); // Found a divisor, so it's not prime
             }
             else
             {
-                System.out.println("It is not a prime number!!");
+                System.out.println("It is a prime number!!");
                 
             }
             break;
