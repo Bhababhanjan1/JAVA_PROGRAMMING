@@ -1,8 +1,8 @@
 package JAVA_PROGRAMMING.DSA_SERIES.ARRAYS.QUESTIONS_ARRAY;
-
+//Reversing an array
 import java.util.Arrays;
 
-//Reversing an array
+
 public class AA00_Q3 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5,6};
