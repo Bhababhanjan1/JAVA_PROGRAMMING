@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.ASSIGNMENTS;
 // Linear Search (using methods)
 import java.util.Scanner;
-public class AA00_Q3 {
+public class AA00_Q03 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int arr[]={1,2,3,4,5,6,7,8,9,11,22,33,44,55,21,78,99,57,20,81,41};
