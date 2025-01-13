@@ -15,7 +15,7 @@ public class AA00_Q2 {
             if(a%i==0 && b%i==0)
             {
                 temp=i;
-            }   
+            }  
 
         }
         System.out.println("The HCF is: ");
