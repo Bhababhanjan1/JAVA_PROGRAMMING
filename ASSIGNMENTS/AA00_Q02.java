@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.ASSIGNMENTS;
 //Find the HCF & LCM of two numbers
 import java.util.Scanner;
-public class AA00_Q2 {
+public class AA00_Q02 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter two numbers :");
