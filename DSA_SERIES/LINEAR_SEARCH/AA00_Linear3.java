@@ -38,6 +38,9 @@ public class AA00_Linear3 {
     }
     static int search(int arr[],int b,int s,int t)
     {
+        if(arr.length==0){
+            return -1;
+        }
         for(int i=s;i<=t;i++)
         {
             if(b==arr[i]){
