@@ -17,6 +17,8 @@ public class AA00_Linear2 {
         else{
             System.out.println("Element is found!!");
         }
+        search2(st, target);
+        System.out.println(search2(st, target));
         
         
     }
@@ -33,6 +35,21 @@ public class AA00_Linear2 {
                 
                 return true;
                 
+            }
+        }
+        return false;
+    }
+    static boolean search2(String st,char target)
+    {
+        if(st.length()==0)
+        {
+            return false;
+        }
+        for(char ch:st.toCharArray())
+        {
+            if(ch==target)
+            {
+                return true;
             }
         }
         return false;
