@@ -41,6 +41,11 @@ public class AA00_Linear6 {
     }
     //Count the number of digits in a number
     static int digits(int num){
+        //Convert negative numbers into positive
+        if(num<0)
+        {
+            num=num*-1;
+        }
         int count=0;
         while(num>0)
         {
