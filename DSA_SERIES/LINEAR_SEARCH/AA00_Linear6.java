@@ -17,6 +17,8 @@ public class AA00_Linear6 {
         System.out.println(Arrays.toString(arr));
         System.out.println("The number of elements having even number of digits is:");
         System.out.println(countDigits(arr));
+       
+
     }
     static int countDigits(int arr[]){
         int count = 0;
@@ -45,6 +47,10 @@ public class AA00_Linear6 {
         if(num<0)
         {
             num=num*-1;
+        }
+        if(num==0)
+        {
+            return 1;
         }
         int count=0;
         while(num>0)
