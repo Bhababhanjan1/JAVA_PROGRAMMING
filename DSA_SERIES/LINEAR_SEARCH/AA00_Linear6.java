@@ -1,5 +1,5 @@
 package JAVA_PROGRAMMING.DSA_SERIES.LINEAR_SEARCH;
-//Find the numbers having even number of digits in an Array using Linear Search --LEETCODE
+// lEETCODE -1 > Find the numbers having even number of digits in an Array using Linear Search 
 import java.util.Scanner;
 import java.util.Arrays;
 public class AA00_Linear6 {
