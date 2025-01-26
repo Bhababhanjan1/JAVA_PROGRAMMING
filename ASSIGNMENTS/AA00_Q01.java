@@ -6,13 +6,15 @@ public class AA00_Q01 {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a year: ");
         int a=sc.nextInt();
-        if(a%4==0 )
+        if(a%400==0 || a%4==0 && a%100!=0 )
         {
             System.out.println("It is a leap year !");
         }
         else{
-            System.out.println("Its not a leap year!");
+            System.out.println("Ut not a leap year!");
         }
+       
+        
     
     }
     
