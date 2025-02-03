@@ -1,7 +1,7 @@
 package JAVA_PROGRAMMING.ASSIGNMENTS;
 //Check a year is a leap year or not
 import java.util.*;
-public class AA00_Q01 {
+public class Q001 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a year: ");
