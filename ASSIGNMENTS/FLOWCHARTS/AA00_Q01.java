@@ -1,4 +1,4 @@
-package JAVA_PROGRAMMING.ASSIGNMENTS;
+package JAVA_PROGRAMMING.ASSIGNMENTS.FLOWCHARTS;
 //Check a year is a leap year or not
 import java.util.*;
 public class AA00_Q01 {
